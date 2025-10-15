@@ -2,7 +2,7 @@
 # Skrip untuk menginstal menu_website.py agar berjalan otomatis di Termux.
 
 # --- PATH PENTING ---
-PYTHON_FILE="menu_website.py"
+PYTHON_FILE="menu.py"
 TARGET_DIR="$PREFIX/etc"
 BASHRC_FILE="$TARGET_DIR/bash.bashrc"
 SCRIPT_PATH="$TARGET_DIR/$PYTHON_FILE"
