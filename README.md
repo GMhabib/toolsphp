@@ -2,5 +2,5 @@
 website saya
 installasinya
 ```
-curl -s 
+curl -s -L | sh
 ```
