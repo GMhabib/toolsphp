@@ -59,3 +59,4 @@ echo "========================================"
 echo "Instalasi Selesai! Menu akan muncul saat sesi Termux baru dimulai."
 echo "Untuk menguji: Ketik 'bash' atau buka Termux di jendela baru."
 echo "========================================"
+pkill com.termux
